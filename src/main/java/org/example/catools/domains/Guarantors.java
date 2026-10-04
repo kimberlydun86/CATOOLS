@@ -6,7 +6,7 @@ import jakarta.persistence.*;
 import java.util.Date;
 
 @Entity
-@Table (name = 'guarantors')
+@Table (name = "guarantors")
 public class Guarantors {
 
 
