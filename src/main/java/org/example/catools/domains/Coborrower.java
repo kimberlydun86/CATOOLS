@@ -6,7 +6,7 @@ import jakarta.persistence.*;
 import java.util.Date;
 
 @Entity
-@Table(name = 'coborrower')
+@Table(name = "coborrower")
 public class Coborrower {
 
     @Id
